@@ -1,5 +1,5 @@
 /*
- * Module file for Mongoose-Joins
+ * Module file for Mongoose-Misc
  *
  * Copyright 2011, Stuart Hudson <goulash1971@yahoo.com>
  * Released under the terms of the MIT License.
